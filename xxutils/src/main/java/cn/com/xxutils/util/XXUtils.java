@@ -57,6 +57,7 @@ import javax.crypto.IllegalBlockSizeException;
 import javax.crypto.NoSuchPaddingException;
 
 import cn.com.xxutils.interfac.OnStartRequestListener;
+import cn.com.xxutils.interfac.onGetMac;
 import cn.com.xxutils.volley.AuthFailureError;
 import cn.com.xxutils.volley.DefaultRetryPolicy;
 import cn.com.xxutils.volley.Request;

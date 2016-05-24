@@ -1,4 +1,4 @@
-package cn.com.xxutils.util;
+package cn.com.xxutils.interfac;
 
 /**
  * Created by Administrator on 2016/5/19.
